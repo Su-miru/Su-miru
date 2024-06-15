@@ -4,7 +4,7 @@
 
 ### Focusing on Robotics Development and AI
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-miru&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-miru&layout=compact&theme=transparent)
 
 ### Skills
 
